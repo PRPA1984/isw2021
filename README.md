@@ -1,9 +1,9 @@
-# iswapp                  
-    
+# iswapp
+
 This application was generated using JHipster 7.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.0.1](https://www.jhipster.tech/documentation-archive/v7.0.1).
- 
-## Development  
- 
+
+## Development
+
 Before you can build this project, you must install and configure the following dependencies on your machine:
 
 1. [Node.js][]: We use Node to run a development web server and build the project.
@@ -13,7 +13,7 @@ After installing Node, you should be able to run the following command to instal
 You will only need to run this command when dependencies change in [package.json](package.json).
 
 ```
-npm install 
+npm install
 ```
 
 We use npm scripts and [Angular CLI][] with [Webpack][] as our build system.
